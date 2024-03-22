@@ -2,4 +2,4 @@
 
 I'm Amar Jaiswal
 
-View my portfolio at [aj-jaiswal007.github.io](aj-jaiswal007.github.io)
+View my portfolio at [aj-jaiswal007.github.io](https://aj-jaiswal007.github.io)
