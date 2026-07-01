@@ -12170,6 +12170,11 @@ h5,
   width: 60%;
   position: relative;
   z-index: -1;
+  height: 100%;
+  min-height: 750px;
+  background-size: contain;
+  background-position: left center;
+  background-repeat: no-repeat;
 }
 
 .owl-carousel.home-slider .slider-item .slider-text .one-third .overlay {
